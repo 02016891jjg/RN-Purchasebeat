@@ -1,0 +1,5 @@
+export const API_URL = 'http://api.purchasebeats.com/'
+// export const API_URL = 'http://192.168.200.226:7474/'
+export const BEAT_URL = 'https://purchasebeats.com/beats/'
+export const PRODUCER_URL = 'https://purchasebeats.com/producer/'
+//export const PRODUCER_URL = 'http://192.168.200.226:7474/producer/'
